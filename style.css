@@ -1,0 +1,21 @@
+#bag {
+  width: 200px;
+  height: 500px;
+  background: url(img/bag.png) no-repeat;
+  background-size: 80%;
+}
+
+#bag-health {
+  width:200px;
+  border: 2px solid #000 ;
+  margin: 0 auto 20px auto;
+}
+
+#bag-health div {
+  height: 20px;
+  background: green;
+}
+
+#controls {
+  margin: 0 auto;
+}
